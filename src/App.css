@@ -1,0 +1,220 @@
+/* General container */
+.container {
+  font-family: system-ui, sans-serif;
+  padding: 1rem;
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+}
+
+/* Title (if needed) */
+.title {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+/* Tag buttons container */
+.tag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Source & article number buttons */
+.tag-button {
+  padding: 0.4rem 0.8rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.tag-button.selected {
+  background-color: #44439c;
+  color: #000;
+}
+
+.tag-button.article-selected {
+  background-color: #4caf50;
+  color: #000;
+}
+
+.tag-button.pin-active {
+  background-color: #ffb74d33;
+  color: #ffb74d;
+}
+
+/* Input field */
+.search-input {
+  width: 96%;
+  padding: 0.6rem 0.8rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #444;
+  border-radius: 6px;
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  outline: none;
+}
+
+/* Results count */
+.results-count {
+  font-style: italic;
+  color: #aaa;
+  margin-bottom: 0.5rem;
+}
+
+/* Article card */
+.card {
+  background: #2c2c2c;
+  border-radius: 6px;
+  padding: 1rem;
+  padding-bottom: 0.2rem;
+  margin-bottom: 0.8rem;
+  text-align: justify;
+  transition: all 0.3s ease;
+}
+
+/* Card header */
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  cursor: pointer;
+  margin-bottom: 0;
+}
+
+/* Article path */
+.path {
+  font-size: 0.85rem;
+  color: #999;
+  margin-top: 0.2rem;
+}
+
+/* Highlight text */
+.highlight {
+  background-color: #ffb74d;
+  padding: 0 2px;
+  color: #000;
+}
+
+/* No results message */
+.no-results {
+  text-align: center;
+  color: #888;
+  margin-top: 1rem;
+}
+
+/* Literals & numerals */
+.literals-container {
+  margin-top: 0;
+  margin-bottom: 0rem;
+  padding-left: 0.8rem;
+  list-style: none;
+}
+
+.literal-block {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+  color: #ddd;
+  text-align: justify;
+}
+
+.numeral-container {
+  padding-left: 1.9rem;
+  list-style: none;
+  margin-top: 0.6rem;
+}
+
+.numeral-item {
+  margin-bottom: 0.8rem;
+  line-height: 1.4;
+  color: #ccc;
+  text-align: justify;
+}
+
+.indicator-row {
+  display: flex;
+  align-items: flex-start;
+}
+
+.indicator {
+  min-width: 1.8rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.indicator-text {
+  flex: 1;
+  color: #ddd;
+  text-align: justify;
+}
+
+.numeral-text2 {
+  margin-left: 1.8rem;
+  margin-top: 0.4rem;
+  display: block;
+  color: #ccc;
+  text-align: justify;
+}
+
+/* Copy and Pin buttons */
+.copy-button,
+.pin-button {
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.copy-button {
+  background-color: #444;
+  color: #fff;
+  margin-left: auto;
+}
+
+.copy-button.copied {
+  background-color: #4caf50;
+}
+
+.pin-button {
+  background-color: #444;
+  color: #fff;
+  margin-left: 5px;
+}
+
+.pin-active {
+  background-color: #693e3e;
+  color: #fff;
+  margin-left: 5px;
+}
+
+/* Smooth expand/collapse */
+.expandable {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+}
+
+.expandable.expanded {
+  max-height: 4000px; /* sufficient for most content */
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .card {
+    padding: 0.8rem;
+  }
+  .tag-button {
+    padding: 0.3rem 0.6rem;
+    font-size: 0.9rem;
+  }
+  .search-input {
+    font-size: 0.9rem;
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "law":"Reglamento de Registro de Emisores y Emisiones Publicas y Privadas",
+  "acronym":"RREEPP",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterTitle": "Objeto, Ámbito de Aplicación y Definiciones",
+      "topics": [
+        {
+          "topicNumber": 1,
+          "topicTitle": "Objeto",
+          "articles": [
+            {
+              "articleNumber": 1,
+              "articleTitle": "Art. 1",
+              "text": "El presente Reglamento tiene por objeto la ejecución y desarrollo de las disposiciones contenidas en la “Ley de Emisión de Activos Digitales” referentes a las emisiones de ofertas públicas que utilizan activos digitales establecidas en dicha Ley, las cuales son las siguientes:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Requisitos de transparencia e información en relación con la emisión;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "Proceso y requisitos para la habilitación, suspensión y cancelación de la emisión de las ofertas públicas;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "Normas de protección de los adquirentes de activos digitales en relación con la emisión, la negociación, la enajenación y la custodia de activos digitales."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicNumber": 2,
+          "topicTitle": "Ámbito de Aplicación",
+          "articles": [
+            {
+              "articleNumber": 2,
+              "articleTitle": "Art. 2",
+              "text": "Estarán sujetas al presente reglamento el Estado y sus dependencias, las instituciones autónomas, personas naturales y personas jurídicas de cualquier naturaleza que realicen ofertas públicas que utilicen activos digitales; así como los adquirentes de activos digitales, sean personas naturales o jurídicas.",
+              "text2": "También se encuentran sujetos al presente reglamento los certificadores y demás personas naturales o jurídicas que realicen tareas que coadyuven a la emisión de activos digitales."
+            }
+          ]
+        },
+        {
+          "topicNumber": 3,
+          "topicTitle": "Definiciones",
+          "articles": [
+            {
+              "articleNumber": 3,
+              "articleTitle": "Art. 3",
+              "text": "Para los efectos del presente reglamento, se utilizarán las siguientes definiciones:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Conflicto de Interés: Es aquella situación en la que el juicio de un individuo, concerniente a su responsabilidad primaria, y la integridad de una acción pueden ser indebidamente influidos por un interés económico, laboral, personal, profesional o familiar, contrario a las obligaciones que le corresponden según las funciones que ejerce y que puede generar un impacto económico al patrimonio de los accionistas o los clientes o usuarios;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "Convertibilidad: Es la cualidad de un activo digital que consiste en ser intercambiado por otro activo digital o por dinero fiduciario;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "Custodia y Administración de Activos Digitales por cuenta de terceros: Es el resguardo o el control, por cuenta de terceros, de activos digitales o de los medios de acceso a esos activos digitales, pudiendo realizarse en forma de claves criptográficas privadas;"
+                },
+                {
+                  "literalLetter": "d",
+                  "text": "Dinero Fiduciario: Es el papel moneda que respalda y emite el banco central de cualquier gobierno;"
+                },
+                {
+                  "literalLetter": "e",
+                  "text": "Funcionalidad Comercial: Son las ventajas que el activo digital emitido ofrece al adquirente, tales como intercambiabilidad con otros activos digitales, pagos de dividendos, rendimientos o de ingresos y complementariedad con otros activos digitales;"
+                },
+                {
+                  "literalLetter": "f",
+                  "text": "Funcionalidad Técnica: Es el conjunto de elementos informáticos y digitales que determinan cómo opera e interactúa el activo digital en la Tecnología de Libro Distribuido y particularmente, en lo que respecta a las plataformas y billeteras digitales de los proveedores de servicios de activos digitales y de los adquirentes;"
+                },
+                {
+                  "literalLetter": "g",
+                  "text": "Gobernabilidad: Es el conjunto de objetivos, normas y disposiciones internas, estructura organizacional y procesos de toma de decisiones del emisor o de los adquirentes de tokens de gobernanza;"
+                },
+                {
+                  "literalLetter": "h",
+                  "text": "Grupo de Empresas: Se refiere a todas las personas jurídicas domiciliadas y no domiciliadas, cualquiera que sea su giro, que estén bajo el control de un mismo propietario o propietarios;"
+                },
+                {
+                  "literalLetter": "i",
+                  "text": "Información Privilegiada: Es cualquier información que no se haya hecho pública, referida directa o indirectamente a uno o varios emisores de activos digitales o sobre uno o varios activos digitales, y que, de hacerse pública, podría influir de manera relevante en los precios de dichos activos digitales;"
+                },
+                {
+                  "literalLetter": "j",
+                  "text": "Libre Competencia: Es el sistema en donde los precios de los bienes y servicios, tangibles e intangibles, incluyendo los activos digitales, son establecidos mediante el libre consentimiento de quienes intervienen en el intercambio comercial y que son determinados por las leyes de la oferta y de la demanda;"
+                },
+                {
+                  "literalLetter": "k",
+                  "text": "LRU o Localizador de Recursos Uniforme (más conocido por las siglas URL, del inglés Uniform Resource Locator): Es una cadena de caracteres con la que se asigna una dirección única a cada uno de los recursos de información disponibles en Internet;"
+                },
+                {
+                  "literalLetter": "l",
+                  "text": "Plataformas Digitales: Son infraestructuras digitales que permiten que dos o más adquirentes interactúen e intercambian activos digitales por otros activos digitales o por dinero fiduciario;"
+                },
+                {
+                  "literalLetter": "m",
+                  "text": "Reservas: Son los fondos o activos que la entidad emisora dispone para responder a sus obligaciones con los adquirentes;"
+                },
+                {
+                  "literalLetter": "n",
+                  "text": "Tasa de Cambio: Consiste en un indicador que establece una relación proporcional entre dos monedas distintas, es decir, cuánto de una equivale de forma justa a cierta cantidad de la otra, y viceversa;"
+                },
+                {
+                  "literalLetter": "o",
+                  "text": "Tarifa de Transferencia: Consiste en una pequeña cuota que puede añadirse a las transacciones enviadas a través de una cadena de bloques para asegurar que se lleven a cabo rápida y efectivamente;"
+                },
+                {
+                  "literalLetter": "p",
+                  "text": "Token de Gobernanza: Se refiere a un activo digital que tiene derecho de voto con respecto a la modificación de los protocolos, reglas y sistema de gobierno de una emisión o de una plataforma o billetera digital que utiliza el sistema de Tecnología de Registro Distribuida, o una tecnología similar o análoga;"
+                },
+                {
+                  "literalLetter": "q",
+                  "text": "Términos y Condiciones: Es un contrato por adherencia que establece los derechos y obligaciones que rigen la relación contractual entre un emisor de ofertas públicas y los adquirentes, los cuales se entenderán como aceptados al momento de hacer la compra o adquisición de los activos digitales emitidos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicNumber": 4,
+          "topicTitle": "Solicitud e información para el registro de emisores",
+          "articles": [
+            {
+              "articleNumber": 4,
+              "articleTitle": "Art. 4",
+              "text": "Las entidades interesadas en ser emisores de Activos Digitales deberán solicitar su Registro ante la CNAD.",
+              "text2":"Para la autorización de asiento en el Registro de Emisores de activos digitales, el representante legal o apoderado la entidad interesada deberá presentar a la CNAD una solicitud, acompañada de la documentación siguiente:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Declaración jurada del emisor, en caso sea una persona natural o de su representante legal o apoderado del emisor, en caso sea una persona jurídica, otorgada ante Notario, en la que manifieste que la información proporcionada a la CNAD y que acompaña la solicitud de su registro como emisor de activos digitales es veraz, precisa y completa. Asimismo, el compromiso de mantener en todo momento, actualizada la información ante la CNAD;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "En caso sea una persona jurídica, proveer una descripción general de su negocio o giro habitual, domicilio e incluir copia de testimonio de la escritura de constitución social del emisor, de sus modificaciones si las hubiere, inscrita (s) en el Registro de Comercio; así como de los estatutos vigentes, si fuere el caso debidamente depositados en el registro correspondiente o en su caso, decreto legislativo de creación;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "En caso sea una persona jurídica, nómina de los socios, asociados o accionistas, con su participación dentro del capital de la sociedad, el tipo y número del documento de identidad vigente y Número de Identificación Tributaria, si aplicase. La referida nómina deberá contener información actualizada, a la fecha de presentación de la solicitud, así como copia del documento de identidad vigente y Número de Identificación Tributaria de las personas cuya participación sea igual o mayor al diez por ciento del capital social del emisor. En caso que, el accionista sea una sociedad se deberá presentar la información del último beneficiario a menos que la empresa cotice en un mercado de valores organizado y regulado, para lo cual este requisito no es necesario;"
+                },
+                {
+                  "literalLetter": "d",
+                  "text": "En caso sea una persona jurídica, nómina de administradores del emisor, indicando el tipo y número de documento de identidad, Número de Identificación Tributaria, así como la copia de las credenciales de la Junta Directiva, apoderados administrativos y administradores, indicando el respectivo período de funciones, debidamente inscrita en el registro correspondiente, adjuntando copia del documento de identidad vigente, Número de Identificación Tributaria, y currículum vitae que acredite experiencia profesional o empresarial de cada uno de los administradores;"
+                },
+                {
+                  "literalLetter": "e",
+                  "text": "En caso sea una persona natural, nombre completo, número del Documento Único de Identidad, carné de residente o pasaporte, y domicilio;"
+                },
+                {
+                  "literalLetter": "f",
+                  "text": "En caso sea una persona natural, nómina de los administradores de su negocio, el tipo y número de documento de identidad o pasaporte y Número de Identificación Tributaria de cada uno de ellos;"
+                },
+                {
+                  "literalLetter": "g",
+                  "text": "Estados financieros auditados del emisor, correspondientes a los últimos tres ejercicios anteriores a la solicitud, por un auditor externo. En el caso de emisores que tengan menos de tres años de existencia, deberán presentar los estados financieros auditados que posean a la fecha de la solicitud;"
+                },
+                {
+                  "literalLetter": "h",
+                  "text": "Copia del Número de Identificación Tributaria del emisor;"
+                },
+                {
+                  "literalLetter": "i",
+                  "text": "Indicar el LRU de su sitio web principal;"
+                },
+                {
+                  "literalLetter": "j",
+                  "text": "Identificar claramente cuáles son las jurisdicciones, países o territorios en donde realizan sus operaciones;"
+                },
+                {
+                  "literalLetter": "k",
+                  "text": "Proveer una lista de los activos digitales que han emitido en ofertas públicas."
+                }
+              ],
+              "text3":"En la solicitud, el emisor deberá establecer el lugar para recibir notificaciones y la designación de las personas comisionadas para tal efecto, incluyendo como mínimo la información de su número de teléfono, correo electrónico y dirección. Cualquier cambio o actualización de la información proporcionada para el registro deberá ser enviada a la CNAD en no más de diez (10) días hábiles después del cambio o actualización. La documentación relacionada con esta solicitud es de carácter confidencial. El proceso de registro como emisor y de emisión podrá realizarse de forma simultánea.",
+              "text4":"En el caso del Ministerio de Hacienda, del Banco Central de Reserva y Entidades Autónomas que deseen emitir, el requisito de registro se cumplirá con una solicitud expresando su interés en formar parte del registro de emisores."
+            }
+          ]
+        },
+        {
+          "topicNumber": 5,
+          "topicTitle": "Registro Definitivo de Proveedores de Servicios de Activos Digitales",
+          "articles": [
+            {
+              "articleNumber": 5,
+              "articleTitle": "Art. 5",
+              "text": "Todo Proveedor de Servicios de Activos Digitales, incluyendo los certificadores, están obligados a registrarse en el Registro de Proveedores de Servicios de Activos Digitales.",
+              "text2":"El Registro de Proveedores de Servicios de Activos Digitales, en adelante denominado el Registro, será administrado por la Comisión Nacional de Activos Digitales (CNAD), cuya información será pública, limitándose solamente por las medidas que para resguardo y conservación de la información emita la CNAD."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

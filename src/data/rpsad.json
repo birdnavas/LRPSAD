@@ -1,0 +1,166 @@
+{
+  "law":"Reglamento de Proveedores de Servicios de Activos Digitales",
+  "acronym":"RPSAD",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterTitle": "",
+      "topics": [
+        {
+          "topicNumber": 1,
+          "topicTitle": "Objeto",
+          "articles": [
+            {
+              "articleNumber": 1,
+              "articleTitle": "Art. 1",
+              "text": "El presente Reglamento tiene por objeto regular a los Proveedores de Servicios de Activos Digitales y establecer las obligaciones y estándares que deben cumplir en el desarrollo de sus funciones, así como los requisitos y proceso de su inscripción definitiva en el registro respectivo."
+            }
+          ]
+        },
+        {
+          "topicNumber": 2,
+          "topicTitle": "Ámbito de Aplicación",
+          "articles": [
+            {
+              "articleNumber": 2,
+              "articleTitle": "Art. 2",
+              "text": "Este reglamento es aplicable a todos los Proveedores de Servicios de Activos Digitales que desarrollen uno o varios servicios de activos digitales en el territorio salvadoreño, según se establece en la Ley de Emisión de Activos Digitales."
+            }
+          ]
+        },
+        {
+          "topicNumber": 3,
+          "topicTitle": "Definiciones",
+          "articles": [
+            {
+              "articleNumber": 3,
+              "articleTitle": "Art. 3",
+              "text": "Para los propósitos de esta Ley, los términos que se detallan a continuación tendrán las siguientes definiciones:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Caso Fortuito: Se refiere a un acontecimiento natural inevitable que puede ser previsto o no por el sujeto obligado a realizar una acción determinada, pero que, incluso aunque lo haya previsto, no lo puede evitar, impidiéndole en forma absoluta el cumplimiento de lo que debe efectuar. El caso fortuito constituye una imposibilidad física insuperable;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "Ciberamenaza: Se refiere a una circunstancia o evento que puede ser o no de naturaleza intencionada y que tiene la capacidad potencial de aprovechar una o varias vulnerabilidades de las infraestructuras de los Proveedores de Servicios de Activos Digitales, dando lugar a una pérdida de confidencialidad de información de clientes o de operaciones relevantes, de integridad de la información almacenada, o disponibilidad de los servicios o comunicación entre los usuarios o empleados de los Proveedores de Servicios de Activos Digitales;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "Ciberataque: Conjunto de acciones dirigidas contra sistemas de información, tales como bases de datos o redes computacionales de los Proveedores de Servicios de Activos Digitales, que provocan pérdida de confidencialidad de información de clientes o de operaciones relevantes, de integridad de la información almacenada, o de la disponibilidad de los servicios o comunicación entre los usuarios o empleados de los Proveedores de Servicios de Activos Digitales;"
+                },
+                {
+                  "literalLetter": "d",
+                  "text": "Ciberinteligencia: Es la recolección y análisis de la información que permitiría comprender y mitigar el impacto de las ciberamenazas;"
+                },
+                {
+                  "literalLetter": "e",
+                  "text": "Ciberresiliencia: Es la capacidad de la infraestructura de los Proveedores de Servicios de Activos Digitales para anticipar, absorber, adaptarse o recuperarse de manera rápida de una ciberamenaza;"
+                },
+                {
+                  "literalLetter": "f",
+                  "text": "Ciberseguridad: Se refiere a las estrategias, políticas y estándares dirigidos a la reducción de las amenazas y vulnerabilidades de las infraestructuras de los Proveedores de Servicios de Activos Digitales, así como de la capacidad de disuasión, de dar respuestas y de contar con sistemas de resistencia a ciberamenazas, y de recuperación de datos e información relevante;"
+                },
+                {
+                  "literalLetter": "g",
+                  "text": "Conflicto de Interés: Es aquella situación en la que el juicio de un individuo, concerniente a su responsabilidad primaria, y la integridad de una acción tienden a ser indebidamente influidos por un interés económico, laboral, personal, profesional o familiar, contrario a las obligaciones que le corresponden según las funciones que ejerce y genera un impacto económico al patrimonio de los accionistas o los clientes o usuarios;"
+                },
+                {
+                  "literalLetter": "h",
+                  "text": "Debida Diligencia de Cliente o DDC: Se refiere a procesos y medidas obligatorias para todos los Proveedores de Servicios de Activos Digitales, y cuya finalidad es recopilar y evaluar la información pertinente sobre un cliente en su calidad de usuario del mercado de activos digitales con el objetivo de evaluar el perfil de riesgo de cada cliente;"
+                },
+                {
+                  "literalLetter": "i",
+                  "text": "Debida Diligencia Operativa: Se refiere a los procesos y medidas obligatorias que los Proveedores de Servicios de Activos Digitales, en caso operen o administren plataformas o billeteras digitales, deben implementar en sus sistemas informáticos para permitir que las transacciones que se realizan en dichas plataformas o billeteras digitales se ejecuten de manera rápida, transparente y exacta;"
+                },
+                {
+                  "literalLetter": "j",
+                  "text": "Factores de Riesgos: Son los riesgos inherentes del producto o servicio que incrementan la probabilidad de pérdida o fallo durante la operación;"
+                },
+                {
+                  "literalLetter": "k",
+                  "text": "Fuerza mayor: Se refiere al hecho del hombre, previsible o imprevisible, pero inevitable, que impide también, en forma absoluta, el cumplimiento de una obligación;"
+                },
+                {
+                  "literalLetter": "l",
+                  "text": "Información Privilegiada: Es cualquier información que no se haya hecho pública, respecto a los activos digitales que administren, promuevan o comercialicen los Proveedores de Servicios de Activos Digitales y que, de hacerse pública, podría influir de manera apreciable en los precios de dichos activos digitales. También se refiere a cualquier información relevante a la funcionalidad técnica y financiera de la plataforma o billetera digital que administren los Proveedores de Servicios de Activos Digitales, y que pueden afectar de manera adversa la operación de dichas plataformas o billeteras digitales;"
+                },
+                {
+                  "literalLetter": "m",
+                  "text": "Token de Gobernanza: Se refiere a un activo digital que principalmente tiene derecho de voto con respecto a la modificación de los protocolos, reglas y sistema de gobierno de una plataforma o billetera digital que utiliza el sistema de Tecnología de Registro Distribuida, o una tecnología similar o análoga, pero no limita otros derechos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicNumber": 4,
+          "topicTitle": "Servicios de Activos Digitales",
+          "articles": [
+            {
+              "articleNumber": 4,
+              "articleTitle": "Art. 4",
+              "text": "Los Proveedores de Servicios de Activos Digitales podrán realizar las siguientes actividades:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Intercambio de activos digitales por dinero fiduciario o equivalente o por otros activos digitales, ya sea utilizando capital propio o de un tercero;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "Operar una plataforma de intercambio o comercialización de activos digitales o activos digitales derivados;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "Evaluación del riesgo y del precio, así como de la suscripción de las emisiones de activos digitales;"
+                },
+                {
+                  "literalLetter": "d",
+                  "text": "Colocar activos digitales en plataformas o billeteras digitales;"
+                },
+                {
+                  "literalLetter": "e",
+                  "text": "Promocionar, estructurar y administrar todo tipo de productos de inversión en activos digitales, así como préstamos, mutuos o cualquier forma de financiamiento de activos digitales;"
+                },
+                {
+                  "literalLetter": "f",
+                  "text": "Las siguientes operaciones cuando son realizadas en nombre y a favor de terceros:",
+                  "numerals": [
+                    {
+                      "numeralNumber": 1,
+                      "text": "Transferir activos digitales o los medios de accesarlos o controlarlos, entre personas naturales o jurídicas o entre diferentes adquirentes, billeteras electrónicas o cuentas de activos digitales;"
+                    },
+                    {
+                      "numeralNumber": 2,
+                      "text": "Resguardar, custodiar o administrar activos digitales o los medios para accesarlos o controlarlos;"
+                    },
+                    {
+                      "numeralNumber": 3,
+                      "text": "Recibir y transmitir órdenes de compra o venta de activos digitales o la negociación de activos digitales derivados;"
+                    },
+                    {
+                      "numeralNumber": 4,
+                      "text": "Ejecutar órdenes de compra o venta de activos digitales derivados;"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicNumber": 5,
+          "topicTitle": "Registro Definitivo de Proveedores de Servicios de Activos Digitales",
+          "articles": [
+            {
+              "articleNumber": 5,
+              "articleTitle": "Art. 5",
+              "text": "Todo Proveedor de Servicios de Activos Digitales, incluyendo los certificadores, están obligados a registrarse en el Registro de Proveedores de Servicios de Activos Digitales.",
+              "text2":"El Registro de Proveedores de Servicios de Activos Digitales, en adelante denominado el Registro, será administrado por la Comisión Nacional de Activos Digitales (CNAD), cuya información será pública, limitándose solamente por las medidas que para resguardo y conservación de la información emita la CNAD."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

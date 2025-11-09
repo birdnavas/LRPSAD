@@ -1,0 +1,220 @@
+{
+  "law":"Ley de Emision de Activos Digitales",
+  "acronym":"LEAD",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "chapterTitle": "Aspectos Generales",
+      "topics": [
+        {
+          "topicNumber": 1,
+          "topicTitle": "Objeto de la Ley",
+          "articles": [
+            {
+              "articleNumber": 1,
+              "articleTitle": "Art. 1",
+              "text": "La presente Ley tiene por objeto establecer el marco legal que otorgue certeza jurídica a las operaciones de transferencia a cualquier título de activos digitales que se utilicen en las emisiones de ofertas públicas realizadas en el territorio de El Salvador; así como regular los requisitos y obligaciones de los emisores, proveedores de servicios de activos digitales, y demás participantes que operen en el proceso de ofertas públicas, con el objetivo de promover el desarrollo eficiente del mercado de activos digitales y proteger los intereses de los adquirentes."
+            }
+          ]
+        },
+        {
+          "topicNumber": 2,
+          "topicTitle": "Ámbito de Aplicación",
+          "articles": [
+            {
+              "articleNumber": 2,
+              "articleTitle": "Art. 2",
+              "text": "La presente Ley es aplicable a las ofertas públicas de activos digitales en el territorio de El Salvador, así como a los emisores y proveedores de servicios de activos digitales y demás participantes de las ofertas públicas."
+            }
+          ]
+        },
+        {
+          "topicNumber": 3,
+          "topicTitle": "Activo Digital",
+          "articles": [
+            {
+              "articleNumber": 3,
+              "articleTitle": "Art. 3",
+              "text": "Un activo digital es una representación digital que puede almacenarse y transferirse electrónicamente, utilizando un sistema de Tecnología de Registro Distribuida, o tecnología similar o análoga, en la cual los registros se encuentran enlazados y cifrados para proteger la seguridad y privacidad de las transacciones.",
+              "text2":"Como característica esencial, los activos digitales pueden ser poseídos, intercambiados, transferidos, negociados y promovidos por personas naturales y jurídicas.",
+              "text3":"Los activos digitales no se consideran títulos valores y por lo tanto no serán aplicables en ningún aspecto las disposiciones referentes a los títulos valores, contenidas en el Código de Comercio, ni tampoco las establecidas en la Ley del Mercado de Valores, en la Ley de Títulos Valores Electrónicos, en la Ley de Anotaciones Electrónicas de Valores en Cuenta o en la Ley de Inversiones.",
+              "text4":"SIN PERJUICIO DE LO ANTERIOR, LA CERTIFICACIÓN QUE EMITA EL PROVEEDOR DE SERVICIOS DE ACTIVOS DIGITALES, DEBIDAMENTE AUTORIZADO POR LA COMISIÓN NACIONAL DE ACTIVOS DIGITALES, RESPECTO DE LOS ACTIVOS DIGITALES A LOS QUE SE REFIERE LA PRESENTE LEY, TENDRÁ LA CALIDAD DE TÍTULO EJECUTIVO CONFORME A LAS REGLAS CONTENIDAS EN EL CÓDIGO PROCESAL CIVIL Y MERCANTIL. (1)"
+            }
+          ]
+        },
+        {
+          "topicNumber": 4,
+          "topicTitle": "Exclusiones",
+          "articles": [
+            {
+              "articleNumber": 4,
+              "articleTitle": "Art. 4",
+              "text": "Las disposiciones de esta Ley no son aplicables a:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Monedas digitales emitidas por los bancos centrales de otro país, jurisdicción o territorio;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "Los activos digitales que por una ley anterior o posterior a la presente sean moneda de curso legal en cualquier país, territorio o jurisdicción, en cuanto a su regulación monetaria, y cuando el uso sea para el intercambio de bienes y servicios, exceptuando los bienes categorizados como activos digitales y los servicios establecidos en los artículos 19 y 26 de esta Ley;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "Los activos digitales que únicamente pueden ser intercambiados por un bien o servicio que es provisto por el emisor de ese activo digital o por un número limitado de proveedores de ese bien o servicio;"
+                },
+                {
+                  "literalLetter": "d",
+                  "text": "Activos digitales que no pueden ser negociados o intercambiados."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "topicNumber": 5,
+          "topicTitle": "Definiciones",
+          "articles": [
+            {
+              "articleNumber": 5,
+              "articleTitle": "Art. 5",
+              "text": "Para los propósitos de esta Ley, los términos que se detallan a continuación tendrán las siguientes definiciones:",
+              "literals": [
+                {
+                  "literalLetter": "a",
+                  "text": "Activo de referencia: Es un activo que sirve de base o referencia para determinar el precio o valor de un activo digital, tales como dinero fiduciario, activos intangibles o monedas estables;"
+                },
+                {
+                  "literalLetter": "b",
+                  "text": "Billetera Digital: Es un dispositivo electrónico o una aplicación móvil que permite realizar transacciones mediante el intercambio de unidades de activos digitales y de dinero escritural y que también es conocida como (wallet electrónica) en el idioma inglés;"
+                },
+                {
+                  "literalLetter": "c",
+                  "text": "Certificador: Persona jurídica que realiza un análisis financiero, legal, técnico y administrativo de la información material y relevante de las ofertas públicas contenida en el Documento de Información Relevante, y emite y presenta un informe sobre el cumplimiento de las obligaciones formales y sustantivas por parte del emisor ante la Comisión Nacional de Activos Digitales;"
+                },
+                {
+                  "literalLetter": "d",
+                  "text": "CONTRATO INTELIGENTE: ES UN PROGRAMA INFORMÁTICO, EL CUAL UTILIZA LA TECNOLOGÍA DE REGISTRO DISTRIBUIDO O UNA SIMILAR O ANÁLOGA, Y QUE SE IMPLEMENTA CUANDO CIERTAS CONDICIONES PREDETERMINADAS SE CUMPLEN; Y SE UTILIZA TÍPICAMENTE PARA AUTOMATIZAR LA EJECUCIÓN DE UN ACUERDO PARA QUE TODOS LOS PARTICIPANTES PUEDAN TENER CERTEZA DEL RESULTADO, SIN LA NECESIDAD DE UN INTERMEDIARIO. SEGÚN EL ACUERDO ENTRE LAS PARTES, DICHOS PROGRAMAS PUEDEN SER AUTOEJECUTABLES, EJECUTADOS JUDICIALMENTE O EJECUTARSE DE FORMA COMBINADA. LA CERTIFICACIÓN DEL CONTENIDO DEL CONTRATO INTELIGENTE QUE EMITA EL PROVEEDOR DE SERVICIOS DE ACTIVOS DIGITALES, DEBIDAMENTE AUTORIZADO POR LA COMISIÓN NACIONAL DE ACTIVOS DIGITALES, TENDRÁ LA CALIDAD DE TÍTULO EJECUTIVO CONFORME A LAS REGLAS CONTENIDAS EN EL CÓDIGO PROCESAL CIVIL Y MERCANTIL; (1)"
+                },
+                {
+                  "literalLetter": "e",
+                  "text": "Moneda Estable: Es un tipo de activo digital diseñado para minimizar la volatilidad de su precio y que hace referencia, representa o está respaldada por un activo o cesta de activos;"
+                },
+                {
+                  "literalLetter": "f",
+                  "text": "Activo Digital Derivado: Es un tipo de contrato que utiliza a un activo digital como su activo digital subyacente o que es pagado en activos digitales, tales como los contratos de futuros, opciones y swaps;"
+                },
+                {
+                  "literalLetter": "g",
+                  "text": "Activo Digital Subyacente: Es un activo digital que sirve de base o referencia para determinar el precio o valor de un activo digital derivado;"
+                },
+                {
+                  "literalLetter": "h",
+                  "text": "Dinero Escritural: Es un tipo de dinero representado mediante anotaciones contables, usualmente mantenido en cuentas de depósito bancarias;"
+                },
+                {
+                  "literalLetter": "i",
+                  "text": "Documento de Información Relevante: Es un documento que informa al público en general de los aspectos más relevantes de cualquier oferta pública de activos digitales, tales como la identificación clara del emisor, las características y los objetivos de la emisión. Dicho documento deberá identificar si los intereses, ganancias, ingresos o rendimientos de la oferta pública se pagarán con dinero escritural o en activos digitales;"
+                },
+                {
+                  "literalLetter": "j",
+                  "text": "Emisor: Se refiere al Estado o a una persona, natural o jurídica, privada o pública que realiza o promueve una oferta al público de activos digitales o que busca la admisión de un activo digital con el objetivo de venderlo o comercializarlo en una plataforma de intercambio o negociación, centralizada o descentralizada,",
+                  "numerals": [
+                    {
+                      "numeralNumber": 1,
+                      "text": "Está domiciliada en El Salvador;"
+                    },
+                    {
+                      "numeralNumber": 2,
+                      "text": "No está domiciliada en El Salvador pero utiliza una plataforma de intercambio o negociación que está domiciliada en el país;"
+                    },
+                    {
+                      "numeralNumber": 3,
+                      "text": "No está domiciliada en El Salvador, pero tiene por objeto promover o realizar una oferta pública de activos digitales a potenciales adquirentes en El Salvador, excepto en el caso en que los potenciales adquirentes inicien, por cuenta propia, la relación comercial con el ofertante de dichos activos digitales.",
+                      "text2":"Un proveedor de servicios de activos digitales que admite la negociación de activos digitales en su plataforma de negociación no es, por el mero hecho de aceptar dicha negociación en su plataforma, un emisor."
+                    }
+                  ]
+                },
+                {
+                  "literalLetter": "k",
+                  "text": "Oferta Pública de Activos Digitales: Es una propuesta técnica o comercial realizada al público en general, de forma masiva, y con el objetivo de comercializar o vender activos digitales;"
+                },
+                {
+                  "literalLetter": "l",
+                  "text": "Oferta Pública de Deuda: Es un tipo de oferta pública de activos digitales los cuales establecen un crédito de la entidad emisora o de otra entidad a favor del adquirente;"
+                },
+                {
+                  "literalLetter": "m",
+                  "text": "Oferta Pública de Propiedad: Es un tipo de oferta pública de activos digitales los cuales establecen un derecho de propiedad a favor del adquirente en la entidad emisora o en otra entidad;"
+                },
+                {
+                  "literalLetter": "n",
+                  "text": "Oferta Pública de Ingresos: Es un tipo de oferta pública de activos digitales los cuales establecen un derecho del adquirente a recibir ingresos o flujos de dinero fiduciario o activos digitales de cualquier naturaleza, incluyendo ganancias, utilidades o distribución de rendimientos;"
+                },
+                {
+                  "literalLetter": "o",
+                  "text": "Fondos: Son los recursos económicos que se obtienen de billetes y monedas, dinero escritural, dinero electrónico y de activos digitales;"
+                },
+                {
+                  "literalLetter": "p",
+                  "text": "Integridad del Mercado: Es el acceso justo, eficiente y transparente a un mercado en cuanto a información sobre precios, prácticas de comercialización y estándares de divulgación de información;"
+                },
+                {
+                  "literalLetter": "q",
+                  "text": "LRU o Localizador de Recursos Uniforme (más conocido por las siglas URL, del inglés Uniform Resource Locator): Es una cadena de caracteres con la que se asigna una dirección única a cada uno de los recursos de información disponibles en Internet;"
+                },
+                {
+                  "literalLetter": "r",
+                  "text": "Mercado Primario: Es un mercado en el que los emisores y adquirentes participan a través de una plataforma centralizada o descentralizada en la comercialización de las ofertas públicas de activos digitales, regulados o no, en la compra y venta de dichos activos digitales cuando son ofrecidos al público por primera vez;"
+                },
+                {
+                  "literalLetter": "s",
+                  "text": "Mercado Secundario: Es un mercado en el que los activos digitales son negociados por segunda o más veces por los adquirentes o sus representantes, sin la intervención de los emisores;"
+                },
+                {
+                  "literalLetter": "t",
+                  "text": "Nodo: Es un punto de intersección, unión o conexión de forma real o abstracta en donde se reúnen varios elementos que se comunican entre sí, y que contienen una secuencia de comandos la cual contribuye a la secuencia de comandos general de un sistema digital o informático;"
+                },
+                {
+                  "literalLetter": "u",
+                  "text": "Plataformas Digitales: Son infraestructuras digitales que permiten que dos o más adquirentes interactúen e intercambien activos digitales por otros activos digitales o por dinero fiduciario;"
+                },
+                {
+                  "literalLetter": "v",
+                  "text": "Proveedor de Servicios de Activos Digitales: Es una persona natural o jurídica cuyo giro ordinario implica prestar uno o más de los servicios de activos digitales que se detallan en el artículo 19 de esta Ley, y que cumple con una de las siguientes dos condiciones:",
+                  "numerals": [
+                    {
+                      "numeralNumber": 1,
+                      "text": "Está domiciliada en El Salvador;"
+                    },
+                    {
+                      "numeralNumber": 2,
+                      "text": "No se encuentra domiciliada en El Salvador, pero promueve o comercializa activamente servicios a potenciales clientes en el país."
+                    }
+                  ]
+                },
+                {
+                  "literalLetter": "w",
+                  "text": "Servicios de Activos Digitales: Se refiere a los servicios detallados en el artículo 19 de esta Ley;"
+                },
+                {
+                  "literalLetter": "x",
+                  "text": "Reglas de Ofertas Públicas de Activos Digitales: Se refiere a las leyes, reglamentos, instructivos, normas técnicas, guías, y cualquier normativa emanada de la autoridad competente que se utiliza para las ofertas públicas de activos digitales;"
+                },
+                {
+                  "literalLetter": "y",
+                  "text": "Tecnología de Registro Distribuido: Es un sistema de base de datos en el que la información se registra, comparte y sincroniza de forma consensuada en una red de múltiples nodos y en el que la mayoría de las copias de las bases de datos se consideran igualmente auténticas;"
+                },
+                {
+                  "literalLetter": "z",
+                  "text": "Token: Es un activo digital que es utilizado como unidad de cuenta en una red, basándose en la Tecnología de Registro Distribuido o una similar o análoga."
+                }
+              ],
+              "text2":"Los reglamentos de esta Ley podrán desarrollar términos adicionales para el mejor funcionamiento del mercado de activos digitales."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
